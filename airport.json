@@ -1,0 +1,10 @@
+{
+    "name": "机场图标包",
+    "description": "自用",
+    "icons": [
+        {
+            "name": "落云",
+            "url": "https://github.com/cxq93/Icon-Library/blob/fc0023097575890dce30074539267aaa7bf0299d/Airport/luoyun.png"
+        }
+    ]
+}
