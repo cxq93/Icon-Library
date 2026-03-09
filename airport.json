@@ -5,6 +5,26 @@
         {
             "name": "落云",
             "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/luoyun.png"
+        },
+		{
+            "name": "飞鸟",
+            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/flyingbird.png"
+        },
+		{
+            "name": "最萌の云",
+            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/cute-cloud.png"
+        },
+		{
+            "name": "Wcloud",
+            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/wcloud.png"
+        },
+		{
+            "name": "Kitty Network",
+            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/kitty.png"
+        },
+		{
+            "name": "微斯人",
+            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/ash.png"
         }
     ]
 }
