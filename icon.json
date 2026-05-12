@@ -1,0 +1,58 @@
+{
+    "name": "图标包",
+    "description": "自用",
+    "icons": [
+        {
+            "name": "落云",
+            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/luoyun.png"
+        },
+        {
+            "name": "飞鸟",
+            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/flyingbird.png"
+        },
+        {
+            "name": "最萌の云",
+            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/cute-cloud.png"
+        },
+        {
+            "name": "Wcloud",
+            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/wcloud.png"
+        },
+        {
+            "name": "Kitty Network",
+            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/kitty.png"
+        },
+        {
+            "name": "微斯人",
+            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/ash.png"
+        },
+        {
+            "name": "酷我音乐",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/45/15/ad4515b8-ace1-708d-fb14-c201483fbd17/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+            "name": "酷我音乐纯净版",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/c2/eb/b2c2eba3-e5ca-bbc5-1d87-5e27be1b2b09/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+            "name": "思维导图",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/f2/cc/13f2cc33-7f14-6f5f-b81b-1e8570fdb20e/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+            "name": "网上国网",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/a9/4e/41a94ea3-cf57-8c6e-3c28-3d1223ec4d48/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+            "name": "金十数据",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/5d/ff/215dffbc-d0cf-8a60-ed55-3d59a56c3bf1/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+            "name": "雪球",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/ba/1c/c9ba1cab-56f2-49e9-8e10-f0249deab13a/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+            "name": "脉脉",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/d1/bd/9ed1bdb0-3645-ca73-f008-1ab46bbea787/Placeholder.mill/400x400bb-75.webp"
+        }
+    ]
+}
