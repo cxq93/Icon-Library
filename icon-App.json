@@ -64,7 +64,11 @@
         },
         {
             "name": "微信小程序",
-            "url": ""
+            "url": "https://github.com/dawn1095/Icon-Library/blob/main/app/wxminiapp.png?raw=true"
+        },
+        {
+            "name": "微信公众号",
+            "url": "https://github.com/dawn1095/Icon-Library/blob/main/app/wxgzh.png?raw=true"
         }
     ]
 }
