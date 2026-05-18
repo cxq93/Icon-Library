@@ -37,6 +37,10 @@
         {
             "name": "sntp",
             "url": "https://ncdn1.sntp.uk/sntp_dark.png"
+        },
+        {
+            "name": "吹雪",
+            "url": "https://ac2026.one/theme/Aurora/static/img/rocket2.a37fff7d.svg"
         }
     ]
 }
