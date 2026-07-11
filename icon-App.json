@@ -85,6 +85,10 @@
         {
             "name": "v2ex",
             "url": "https://www.v2ex.com/static/favicon.ico"
+        },
+        {
+            "name": "FlightTracker",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/3b/b7/e03bb76b-d165-b6b1-6285-d0b04fef21d3/Placeholder.mill/400x400bb-75.webp"
         }
     ]
 }
