@@ -77,6 +77,14 @@
         {
             "name": "阿维塔",
             "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/18/71/d618711a-c282-aeb5-ed63-43daa0026eaf/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+            "name": "和风天气",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/67/2a/fa672a20-bd8d-1c4a-b81a-e63b6f180bb4/Placeholder.mill/96x96bb-75.webp"
+        },
+        {
+            "name": "v2ex",
+            "url": "https://www.v2ex.com/static/favicon.ico"
         }
     ]
 }
