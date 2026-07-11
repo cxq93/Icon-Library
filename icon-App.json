@@ -93,6 +93,10 @@
         {
             "name": "广告拦截",
             "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/01/f9/f5/01f9f565-3bb6-837a-7482-00aab613d4cd/pr_source.png/96x96ia-75.webp"
+        },
+        {
+            "name": "证书验证",
+            "url": "https://www.check-cert.com/favicon.ico"
         }
     ]
 }
