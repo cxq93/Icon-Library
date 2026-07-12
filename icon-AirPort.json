@@ -4,27 +4,27 @@
     "icons": [
         {
             "name": "落云",
-            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/luoyun.png"
+            "url": "https://cdn.jsdelivr.net/gh/dawn1095/Icon-Library@main/Airport/luoyun.png"
         },
         {
             "name": "飞鸟",
-            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/flyingbird.png"
+            "url": "https://cdn.jsdelivr.net/gh/dawn1095/Icon-Library@main/Airport/flyingbird.png"
         },
         {
             "name": "最萌の云",
-            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/cute-cloud.png"
+            "url": "https://cdn.jsdelivr.net/gh/dawn1095/Icon-Library@main/Airport/cute-cloud.png"
         },
         {
             "name": "Wcloud",
-            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/wcloud.png"
+            "url": "https://wcloud.me/favicon.ico"
         },
         {
             "name": "Kitty Network",
-            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/kitty.png"
+            "url": "https://cdn.jsdelivr.net/gh/dawn1095/Icon-Library@main/Airport/kitty.png"
         },
         {
             "name": "微斯人",
-            "url": "https://cdn.jsdelivr.net/gh/cxq93/Icon-Library@main/Airport/ash.png"
+            "url": "https://cdn.jsdelivr.net/gh/dawn1095/Icon-Library@main/Airport/ash.png"
         },
         {
             "name": "赔钱机场",
@@ -45,6 +45,10 @@
         {
             "name": "云之翼",
             "url": "https://pz.apinews.info/f/JMUe/yzylogo11.png"
+        },
+        {
+            "name": "坨坨云",
+            "url": "https://te.tuotuoyun.fyi/images/logo.png"
         }
     ]
 }
