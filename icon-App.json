@@ -3,6 +3,22 @@
     "description": "常用应用的图标",
     "icons": [
         {
+            "name": "App Store",
+            "url": "https://apps.apple.com/assets/favicon/favicon-180.png"
+        },
+        {
+            "name": "腾讯",
+            "url": "https://www.tencent.com/favicon.ico"
+        },
+        {
+            "name": "百度",
+            "url": "https://www.baidu.com/favicon.ico"
+        },
+        {
+            "name": "Apple",
+            "url": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202604211141"
+        },
+        {
             "name": "酷我音乐",
             "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/45/15/ad4515b8-ace1-708d-fb14-c201483fbd17/Placeholder.mill/400x400bb-75.webp"
         },
@@ -97,6 +113,38 @@
         {
             "name": "证书验证",
             "url": "https://www.check-cert.com/favicon.ico"
+        },
+        {
+            "name": "波点音乐",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/4b/3b/494b3b44-07c8-8894-8c9c-253d189c4d61/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+            "name": "瑞幸咖啡",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/32/04/b732040a-31a9-f3c5-8a8e-a508fd2bb2d6/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+            "name": "财新",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/36/db/2436db9d-944e-fa43-7af4-9ba23cee3478/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+            "name": "爱回收",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/cc/70/c7cc700d-d7f4-6db8-c6ab-0d08435c7266/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+            "name": "大麦",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/50/8c/62508ca8-ddcc-dc8a-5880-25740648c743/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+            "name": "威锋",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/09/26/940926a2-9919-90c9-61e6-67abace230dc/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+            "name": "酷安",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/76/15/b57615d3-8a7e-7e20-b8fb-68eaaf30f3d5/Placeholder.mill/400x400bb-75.webp"
+        },
+        {
+            "name": "腾讯文档",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/b9/71/cfb9718e-7815-5f80-2fe9-c548680e6004/Placeholder.mill/400x400bb-75.webp"
         }
     ]
 }
